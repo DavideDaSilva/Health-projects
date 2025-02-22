@@ -1,0 +1,2 @@
+Imagens geradas utilizando modelos treinados por 100 épocas no conjunto de dados de  20, 40, 60, 80 e 100 imagens.
+Prompt 05: Healthy chest x-ray

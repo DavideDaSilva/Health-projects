@@ -1,2 +1,2 @@
 # Health-projects
-Bem-vindo ao repositório Health Projects! Este repositório contém uma coleção de projetos de Machine Learning e Deep Learning focados na área de saúde. Meu objetivo é utilizar técnicas avançadas de aprendizado de máquina para resolver problemas reais na saúde, melhorando diagnósticos, tratamentos e a qualidade de vida dos pacientes.
+Welcome to the Health Projects repository! This repository contains a collection of Machine Learning and Deep Learning projects focused on the healthcare domain. My goal is to use advanced machine learning techniques to solve real-world health problems, improving diagnoses, treatments, and the quality of life for patients.

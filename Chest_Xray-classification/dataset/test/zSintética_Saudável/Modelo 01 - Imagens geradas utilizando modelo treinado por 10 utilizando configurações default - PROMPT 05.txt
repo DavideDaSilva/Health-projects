@@ -1,0 +1,3 @@
+Imagens geradas utilizando modelo treinado por 100 épocas no conjunto de dados de 100 imagens.
+
+Prompt 05: Healty chest x-ray
