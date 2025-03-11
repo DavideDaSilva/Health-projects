@@ -1,0 +1,1 @@
+Real chest x-ray as to train the model AND synthetic chest x-ray to test the model
