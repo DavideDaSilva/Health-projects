@@ -1,0 +1,26 @@
+Task 01 (STEP 03): Real chest x-ray as to train the model AND synthetic chest x-ray to test/validate the model
+Task 02 (STEP 04): Synthetic chest x-ray to train the model AND Real chest x-ray as to test/validate the model
+
+I organized the folder in the following maner:
+train folder: 
+	Has two other foldes: 
+		healthy folder: which contains healthy chest x-ray
+		tuberculosis folder: which contains chest x-ray diagnosed with tuberculosis
+val folder
+	Has two other foldes: 
+		healthy folder: which contains healthy chest x-ray
+		tuberculosis folder: which contains chest x-ray diagnosed with tuberculosis
+
+Note: these folders name, in fact, are CLASSES
+
+What is used to classify image?
+	ResNet-18 and Pytorch
+
+Steps:
+	Step 1: Definition of data transformation for data augmentation and normalization
+
+
+=========================
+Conjunto de treinamento:
+               41 imagens não saudáveis: todas as imagens cujo prefixo é ns_ (imagens geradas com o prompt de geração de imagens não saudáveis)
+               50 imagens saudáveis (imagens geradas com o prompt de geração de imagens saudáveis)
